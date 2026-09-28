@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+venv/
+beliefs.json
+be-audit.jsonl
+be-prompt.txt
+be-launch.py
+be-codex.log
